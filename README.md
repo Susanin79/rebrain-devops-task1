@@ -87,4 +87,4 @@ This project is licensed under the MIT License
 
 ## Acknowledgments
 
-* [REBRAIN] (https://rebrainme.com/) team. Thanks so much for cool DEVOPS lessons!
+* [REBRAIN](https://rebrainme.com/) team. Thanks so much for cool DEVOPS lessons!
